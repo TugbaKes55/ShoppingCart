@@ -8,9 +8,9 @@ I designed a user-friendly interface that includes the total prices of the produ
 - JavaScript
 
 # Features
-LocalStorage Operations: Add, Remove
-You can add or remove elements to the page instantly.
-Integration with mockAPI.
+- LocalStorage Operations: Add, Remove
+- You can add or remove elements to the page instantly.
+- Integration with mockAPI.
 
 # Preview
 
